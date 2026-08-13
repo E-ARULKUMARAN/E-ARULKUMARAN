@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-pink.vercel.app/api?username=E-ARULKUMARAN&show_icons=true&theme=tokyonight&hide_border=true" alt="Arulkumaran's GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=E-ARULKUMARAN&theme=tokyonight&hide_border=true" alt="Arulkumaran's GitHub streak" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=E-ARULKUMARAN&theme=tokyonight&hide_border=true" alt="Arulkumaran's GitHub streak" width="48%" />
 </p>
 
 <p align="center">
