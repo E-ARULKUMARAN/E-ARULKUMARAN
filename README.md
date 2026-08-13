@@ -56,12 +56,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=E-ARULKUMARAN&show_icons=true&theme=tokyonight&hide_border=true" alt="Arulkumaran's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=E-ARULKUMARAN&theme=tokyonight&hide_border=true" alt="Arulkumaran's GitHub streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api?username=E-ARULKUMARAN&show_icons=true&theme=tokyonight&hide_border=true" alt="Arulkumaran's GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=E-ARULKUMARAN&theme=tokyonight&hide_border=true" alt="Arulkumaran's GitHub streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-ARULKUMARAN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-sigma-pink.vercel.app/api/top-langs/?username=E-ARULKUMARAN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
